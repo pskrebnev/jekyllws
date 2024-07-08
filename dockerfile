@@ -1,4 +1,4 @@
-FROM ruby:3.0.3-alpine3.16
+FROM ruby:3.2.4-alpine3.19
 # RUN docker pull ruby:3.0-alpine3.21
 # Create a Jekyll container from a Ruby Alpine image
 # At a minimum, use Ruby 2,5 or later
